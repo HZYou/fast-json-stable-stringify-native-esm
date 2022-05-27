@@ -2,7 +2,7 @@
 
 froked: [https://github.com/abdonrd/fast-json-stable-stringify](https://github.com/abdonrd/fast-json-stable-stringify)
 
-增强：支持在 `vite` 中使用，修复 `index.t.ts` 缺少声明问题
+增强：支持在 `vite` 中使用，修复 `index.d.ts` 缺少声明问题
 
 
 Deterministic `JSON.stringify()` - a faster version of [@substack](https://github.com/substack)'s json-stable-strigify without [jsonify](https://github.com/substack/jsonify).
