@@ -1,5 +1,5 @@
 {
-  "name": "fast-json-stable-stringify",
+  "name": "fast-json-stable-stringify-native-esm",
   "version": "2.1.1",
   "description": "deterministic `JSON.stringify()` - a faster version of substack's json-stable-strigify without jsonify",
   "main": "./dist/cjs/index.js",

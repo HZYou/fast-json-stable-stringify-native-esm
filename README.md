@@ -1,4 +1,4 @@
-# fast-json-stable-stringify
+# fast-json-stable-stringify-native-esm
 
 froked: [https://github.com/abdonrd/fast-json-stable-stringify](https://github.com/abdonrd/fast-json-stable-stringify)
 
@@ -98,7 +98,7 @@ TypeError will be thrown in case of circular object without this option.
 With [npm](https://npmjs.org) do:
 
 ```
-npm install fast-json-stable-stringify
+npm install fast-json-stable-stringify-native-esm
 ```
 
 
