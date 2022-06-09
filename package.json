@@ -1,6 +1,6 @@
 {
   "name": "fast-json-stable-stringify",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "deterministic `JSON.stringify()` - a faster version of substack's json-stable-strigify without jsonify",
   "main": "./dist/cjs/index.js",
   "exports": {
