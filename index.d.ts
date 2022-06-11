@@ -1,4 +1,4 @@
-declare module 'fast-json-stable-stringify' {
-  function stringify(obj: any, opts: any): string;
-  export = stringify;
+declare module 'fast-json-stable-stringify-native-esm' {
+  function stringify(obj: any, opts: any): string
+  export = stringify
 }

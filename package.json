@@ -37,9 +37,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/epoberezkin/fast-json-stable-stringify.git"
+    "url": "https://github.com/HZYou/fast-json-stable-stringify-native-esm.git"
   },
-  "homepage": "https://github.com/epoberezkin/fast-json-stable-stringify",
+  "homepage": "https://github.com/HZYou/fast-json-stable-stringify-native-esm",
   "keywords": [
     "json",
     "stringify",
